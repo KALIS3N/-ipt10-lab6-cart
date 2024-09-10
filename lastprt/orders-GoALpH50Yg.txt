@@ -1,0 +1,5 @@
+Order Code: GoALpH50Yg
+Date: 2024-09-10 13:43:53
+Items:
+- Product ID: 6 | Name: One Tray Eggs | Price: 300 PHP
+Total Price: 300 PHP

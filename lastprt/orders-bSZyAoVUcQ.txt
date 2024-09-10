@@ -1,0 +1,5 @@
+Order Code: bSZyAoVUcQ
+Date: 2024-09-10 13:43:21
+Items:
+- Product ID: 1 | Name: 1Kg Sugar | Price: 100 PHP
+Total Price: 100 PHP

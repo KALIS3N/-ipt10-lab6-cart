@@ -1,0 +1,5 @@
+Order Code: rhaLOk1Qnd
+Date: 2024-09-10 13:42:18
+Items:
+- Product ID: 1 | Name: 1Kg Sugar | Price: 100 PHP
+Total Price: 100 PHP

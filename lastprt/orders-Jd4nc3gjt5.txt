@@ -1,0 +1,5 @@
+Order Code: Jd4nc3gjt5
+Date: 2024-09-10 13:39:05
+Items:
+- Product ID: 6 | Name: One Tray Eggs | Price: 300 PHP
+Total Price: 300 PHP
